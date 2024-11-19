@@ -5,12 +5,30 @@ body {
     color: white;
 }
 
+audio {
+    width: 550px;
+    margin: auto 70px;
+    margin-bottom: 50px;
+}
+
 .story_title {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
     padding: 30px;
     margin: 20px 70px;
     width: 500px;
+}
+
+.story_title a:link, a:visited {
+    color: rgb(135, 135, 135);
+}
+
+.story_title a:hover, a:focus {
+    color: rgb(201, 200, 160);
+}
+
+.story_title a:active {
+    color: rgb(230, 230, 160);
 }
 
 .story_image {
