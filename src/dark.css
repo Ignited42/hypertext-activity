@@ -28,6 +28,18 @@ body {
     border: 5px solid white;
 }
 
+.story_text a:link, a:visited {
+    color: blueviolet;
+}
+
+.story_text a:hover, a:focus {
+    color: darkviolet;
+}
+
+.story_text a:active {
+    color: indigo;
+}
+
 .story_choice {
     padding: 30px;
     margin-left: 80px;
