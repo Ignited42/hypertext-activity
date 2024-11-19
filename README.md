@@ -4,3 +4,7 @@ This is a repository for Exercise 6 of DTC 201, under Dr. Eliseo Ortiz. The poin
 ## Tools Used
 - draw.io for diagramming the story
 - VSCode for coding this activity
+- Adobe Audition for editing audio
+
+## How to use
+You can start the webpage by going to src/index.html
